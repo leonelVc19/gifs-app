@@ -12,4 +12,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 By `Juan Leonel Vazquez Iglesias`.
 
-Web: `https://leonelvc19.github.io/gifs-app/`
+Web:  [Gifs App](https://leonelvc19.github.io/gifs-app/)
